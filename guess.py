@@ -16,7 +16,7 @@ while 1 :
 		lower = test
 	elif test > ans :
 		upper = test;
-	elif test == ans :
+	else :
 		print("You are right")
 		break
 
